@@ -1,7 +1,5 @@
-# Cloud_Disk
+# ourproject
 项目清单：
 1、shiro
-2、redis
-3、MongoDB
-4、Springboot
-5、vue，iview
+2、
+3、
